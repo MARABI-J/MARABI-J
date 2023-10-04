@@ -1,5 +1,7 @@
 ### Hi there, I'm Jhodielen L. Marabi👋
 
+🌱 I’m currently studying Mechatronics Engineering
+
 <!--
 **MARABI-J/MARABI-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
